@@ -62,7 +62,7 @@ export default function ThankYouPage() {
                     className="mt-12"
                 >
                     <a
-                        href="https://www.all-in-wiesloch.de"
+                        href="https://kfz-werkstatt-rhein-neckar-kreis.de"
                         className="text-[var(--color-gold)] hover:text-white underline underline-offset-4 transition-colors tracking-widest text-sm"
                     >
                         ← Zurück zur Website

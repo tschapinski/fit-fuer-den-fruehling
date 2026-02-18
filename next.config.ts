@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'www.all-in-wiesloch.de',
+        hostname: 'kfz-werkstatt-rhein-neckar-kreis.de',
       },
     ],
   },
