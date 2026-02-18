@@ -52,7 +52,7 @@ export default function NewsletterPage() {
                     animate={{ opacity: 1, y: 0 }}
                     className="w-full max-w-md bg-[#1a1a1a]/90 backdrop-blur-sm p-8 rounded border border-[#3a3a3a] shadow-xl"
                 >
-                    <h3 className="text-white font-bold mb-3 tracking-widest text-sm uppercase">
+                    <h3 className="text-white font-bold mb-4 tracking-widest text-xl md:text-2xl uppercase font-[family-name:var(--font-rye)]">
                         Hol dir die Gratis-Checkliste
                     </h3>
                     <p className="text-gray-400 text-sm mb-6 leading-relaxed">
